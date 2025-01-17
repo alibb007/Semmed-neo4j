@@ -1,5 +1,5 @@
 # SeMMed - Neo4j Project
-
+![Knowledge Graph Visualization](images/Relations.png)
 ## Overview
 
 This project focused on leveraging a graph-based database, Neo4j, to establish meaningful relationships within the [National Library of Medicine&#39;s Semantic Medline Database](https://lhncbc.nlm.nih.gov/ii/tools/SemRep_SemMedDB_SKR.html). which contains vast biomedical data.
